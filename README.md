@@ -50,7 +50,7 @@ Milestones y user-stories creados:
 
 # Clases
 Se han creado unas clases iniciales para el proyecto. Estas se encuentran en la carpeta [src](https://github.com/Nastard/ProyectoCC/tree/main/src/) de este repositorio. Son las siguientes clases:
-- Clase [Clasificación](https://github.com/Nastard/ProyectoCC/tree/main/src/Clasificacion.js): Para ver la clasificación de los equipos.
+- Clase [Clasificacion](https://github.com/Nastard/ProyectoCC/tree/main/src/Clasificacion.js): Para ver la clasificación de los equipos.
 - Clase [Equipos](https://github.com/Nastard/ProyectoCC/tree/main/src/Equipos.js): Para ver la clasificación de los equipos.
 - Clase [Jornada](https://github.com/Nastard/ProyectoCC/tree/main/src/Jornada.js): Para ver la clasificación de los equipos.
 - Clase [Jugadores](https://github.com/Nastard/ProyectoCC/tree/main/src/Jugadores.js): Para ver la clasificación de los equipos.
