@@ -21,12 +21,12 @@ Para comunicarse con estos microservicios, se hará mediante una API. Y usando l
 
 # Milestones, issues y user-stories
 Milestones y user-stories creados:
-- [Hito0](https://github.com/Nastard/SoccerGoal-ProyectoCC/milestone/1)
+- [Milestone 0](https://github.com/Nastard/SoccerGoal-ProyectoCC/milestone/1)
 	- [Documentación inicial](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/1)
 	- [Descripción del proyecto](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/2)
 	- [Subir licencia y gitignore](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/3)
 	- [Actualizar documentación inicial](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/4)
-- [Hito1](https://github.com/Nastard/SoccerGoal-ProyectoCC/milestone/2)
+- [Milestone 1](https://github.com/Nastard/SoccerGoal-ProyectoCC/milestone/2)
 	- [Mover README.md antiguo](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/18)
 	- [Nuevo README.md](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/19)
 	- [Archivo cc.yaml](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/20)
