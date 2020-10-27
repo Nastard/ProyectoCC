@@ -1,6 +1,6 @@
 ---
 entidad:
-   - src/Clasficacion.js
+   - src/Clasificacion.js
    - src/Equipos.js
    - src/Jornada.js
    - src/Jugadores.js
