@@ -32,6 +32,8 @@ Milestones y user-stories creados:
 	- [Archivo cc.yaml](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/20)
 	- [Subida de estructura inicial](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/21)
 	- [Actualizar .gitignore](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/22)
+	- [Actualizar README.md](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/23)
+	- [Actualizar cc.yaml](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/24)
 - [[US] Historias de usuario, administrador](https://github.com/Nastard/SoccerGoal-ProyectoCC/milestone/3)
 	- [[US1] Como administrador, necesito poder subir los datos de cada jornada, con sus alineaciones y puntos fantasy.](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/5)
 	- [[US2] Como administrador, necesito poder modificar los datos de cada jornada.](https://github.com/Nastard/SoccerGoal-ProyectoCC/issues/6)
